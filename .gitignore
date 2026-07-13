@@ -1,0 +1,10 @@
+*.pt
+rf100_runs_10ep/*
+*.whl
+comparison_results/pred_viz/*
+rf-detr/rf100_rfdetr_runs/*
+yolov12/rf100_runs_10ep/*
+yolov12/rf100_yolov12n_results.json
+yolov26/runs/*
+rf-detr/rf100_coco/*
+rf-detr/annotated_outputs/*
